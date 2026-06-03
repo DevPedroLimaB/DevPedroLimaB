@@ -6,10 +6,10 @@
 
 ### Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevPedroLimaB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPedroLimaB&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevPedroLimaB&show_icons=true&theme=radical&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPedroLimaB&layout=compact&langs_count=5&theme=radical&locale=pt-br" height="150" alt="Linguagens Mais Usadas" />
+</p>
 
 <br clear="both">
 
@@ -62,10 +62,4 @@ Também construo portais B2B utilizando automações condicionais (webhooks e AP
   <a href="https://www.instagram.com/devpedrolima/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-</div>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DevPedroLimaB/DevPedroLimaB/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
