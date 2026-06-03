@@ -1,10 +1,10 @@
-<h2 align="left">Olá 👋! Eu sou o Pedro Henrique Lima Barbosa (Pedro Lima)</h2>
+<h2 align="left">Pedro Henrique Lima Barbosa</h2>
 
 <p align="left">
-  Sou estudante do 6º período de Ciência da Computação em Recife, PE. Atualmente, atuo como <b>Estagiário em Engenharia de Software</b> e <b>Desenvolvedor Full Stack Freelancer</b>. Tenho forte foco na arquitetura de soluções eficientes, integração de sistemas complexos (como ERP Protheus) e automação de processos utilizando Inteligência Artificial e plataformas Low/No-Code.
+  Sou estudante do 6º período de Ciência da Computação na Faculdade Nova Roma, em Recife. Atualmente, trabalho como Estagiário em Engenharia de Software na Hubvision e como Desenvolvedor Full Stack autônomo. Minha atuação é focada na arquitetura de soluções ágeis, na integração de sistemas corporativos complexos e na automação de processos utilizando Inteligência Artificial.
 </p>
 
-### 💻 Minhas Estatísticas
+### Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevPedroLimaB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true" height="150" alt="stats graph" />
@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-### 🛠️ Tecnologias e Habilidades
+### Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" title="JavaScript" />
@@ -41,19 +41,19 @@
 
 <br>
 
-Além do ecossistema de desenvolvimento tradicional, possuo forte atuação prática em:
+Além do ecossistema de desenvolvimento tradicional listado acima, tenho forte atuação prática nas seguintes frentes:
 
-*   **Automação & Low/No-Code:** n8n, Bubble, Typebot.
-*   **Sistemas Corporativos:** Banco de dados SQL e ERP Protheus (TOTVS) com lógica AdvPL/TLPP, focado em integrações via API e queries complexas.
-*   **IA e Engenharia de Prompt:** Integração de agentes de IA e LLMs em fluxos de negócios para automação inteligente e orquestração de dados.
+* **Automação e Orquestração:** n8n, Bubble, Typebot.
+* **Sistemas Corporativos:** ERP Protheus (TOTVS), desenvolvendo lógica em AdvPL/TLPP para integrações robustas via API e estruturação de queries SQL complexas.
+* **Inteligência Artificial:** Engenharia de prompt estruturada e integração de agentes de IA em fluxos de negócios para automação de tarefas e análise de dados.
 
-### 🚀 Destaques e Experiência
+### Experiência e Projetos
 
-*   **Integração e Orquestração Financeira:** Desenvolvimento de orquestradores financeiros orientados por IA (como o projeto CFO Virtual integrado ao Protheus) e assistentes virtuais proativos (SDR).
-*   **Automação de Processos Empresariais:** Construção de mini portais e funis de captação de leads com regras condicionais via webhooks e APIs.
-*   **Alta Performance sob Pressão:** Vencedor de Hackathon, com facilidade para ideação, resolução de problemas lógicos e prototipagem rápida de soluções inovadoras.
+Tenho experiência direta no desenvolvimento de soluções que conectam regras de negócios a tecnologias escaláveis. Entre os meus principais trabalhos estão a construção de orquestradores financeiros orientados por IA (como o projeto CFO Virtual integrado ao Protheus) e a modelagem de assistentes virtuais proativos voltados para a área de vendas (SDR). 
 
-### 📫 Como me encontrar
+Também construo portais B2B utilizando automações condicionais (webhooks e APIs). Sou vencedor de Hackathon, ambiente onde consolidei minha capacidade de prototipação rápida, resolução de problemas lógicos e entrega de resultados sob forte pressão de tempo.
+
+### Contato
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pedrolimasecedev/" target="_blank">
