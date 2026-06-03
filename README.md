@@ -4,10 +4,6 @@
   Sou estudante do 6º período de Ciência da Computação na Faculdade Nova Roma, em Recife. Atualmente, trabalho como Estagiário em Engenharia de Software na Hubvision e como Desenvolvedor Full Stack autônomo. Minha atuação é focada na arquitetura de soluções ágeis, na integração de sistemas corporativos complexos e na automação de processos utilizando Inteligência Artificial.
 </p>
 
-### Estatísticas
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevPedroLimaB&show_icons=true&theme=radical&locale=pt-br&v=1)](https://github.com/DevPedroLimaB)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs?username=DevPedroLimaB&layout=compact&langs_count=5&theme=radical&locale=pt-br&v=1)](https://github.com/DevPedroLimaB)
 
 ### Tecnologias e Ferramentas
 
