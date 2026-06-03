@@ -6,12 +6,8 @@
 
 ### Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevPedroLimaB&show_icons=true&theme=radical&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPedroLimaB&layout=compact&langs_count=5&theme=radical&locale=pt-br" height="150" alt="Linguagens Mais Usadas" />
-</p>
-
-<br clear="both">
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevPedroLimaB&show_icons=true&theme=radical&locale=pt-br&v=1)](https://github.com/DevPedroLimaB)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs?username=DevPedroLimaB&layout=compact&langs_count=5&theme=radical&locale=pt-br&v=1)](https://github.com/DevPedroLimaB)
 
 ### Tecnologias e Ferramentas
 
