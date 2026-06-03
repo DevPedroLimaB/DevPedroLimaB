@@ -1,4 +1,10 @@
-<h2 align="left">Pedro Henrique Lima Barbosa</h2>
+<div align="center">
+
+### > Pedro Henrique Lima Barbosa
+#### fullstack · automação · integração de sistemas
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+e+Integração+de+Sistemas;Automação+de+Processos+(RPA);Construindo+fluxos+de+trabalho+e+produtos+escaláveis)](https://git.io/typing-svg)
+</div>
 
 <p align="left">
   Sou estudante do 6º período de Ciência da Computação na Faculdade Nova Roma, em Recife. Atualmente, trabalho como Estagiário em Engenharia de Software na Hubvision e como Desenvolvedor Full Stack autônomo. Minha atuação é focada na arquitetura de soluções ágeis, na integração de sistemas corporativos complexos e na automação de processos utilizando Inteligência Artificial.
