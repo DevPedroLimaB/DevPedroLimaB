@@ -1,57 +1,24 @@
-<h2 align="left">Hi 👋! My name is Pedro Lima and I'm a FullStack Developer, from Brazil</h2>
+## Olá! Eu sou o Pedro Henrique Lima Barbosa 👋
 
-###
+Sou estudante do 6º período de Ciência da Computação em Recife, PE. Atualmente, atuo como Estagiário em Engenharia de Software e Desenvolvedor Full Stack Freelancer. Tenho forte foco na arquitetura de soluções eficientes, integração de sistemas complexos e automação de processos utilizando Inteligência Artificial.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevPedroLimaB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPedroLimaB&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-</div>
+### 💻 Tecnologias e Habilidades
 
-###
+*   **Linguagens:** JavaScript, Java, Python, AdvPL/TLPP.
+*   **Ecossistema Web:** Node.js, React.
+*   **Banco de Dados:** SQL.
+*   **Sistemas Corporativos:** ERP Protheus (TOTVS), com foco em queries complexas e integrações via API.
+*   **Automação & Low/No-Code:** n8n, Bubble, Typebot.
+*   **IA e Engenharia de Prompt:** Integração de agentes de IA e orquestradores em fluxos de negócios para automação inteligente.
 
-<br clear="both">
+### 🚀 Destaques e Experiência
 
-<img align="right" height="0" src="https://i.imgflip.com/65efzo.gif"  />
+*   **Integração de Sistemas:** Experiência no desenvolvimento de orquestradores financeiros com IA (como integrações com ERP Protheus) e assistentes virtuais proativos (SDR).
+*   **Automação de Processos:** Construção de portais corporativos e funis de captação de leads com regras condicionais via webhooks e APIs.
+*   **Competições:** Vencedor de Hackathon, com facilidade para ideação e prototipagem rápida de soluções sob pressão.
 
-###
+### 📫 Como me encontrar
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/devpedrolima/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/pedrolimasecedev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DevPedroLimaB/DevPedroLimaB/output/snake.svg" alt="Snake animation" />
-
-###
+*   **LinkedIn:** [Insira o link do seu perfil aqui](#)
+*   **Portfólio:** [Insira o link do seu portfólio aqui](#)
+*   **E-mail:** [Insira o seu e-mail aqui](#)
