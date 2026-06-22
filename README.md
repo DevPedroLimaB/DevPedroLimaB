@@ -29,7 +29,7 @@ Trabalho na intersecção de **automação de processos**, **agentes de IA** e *
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" title="PostgreSQL" />
   <img width="12" />
 </div>
-
+<br>
 
 **Automação & Integração:** n8n · Typebot · Bubble · Evolution API  
 **Sistemas corporativos:** ERP Protheus (TOTVS) · AdvPL/TLPP · API REST · SQL Server  · Oracle  
