@@ -1,10 +1,10 @@
-# Pedro Lima · DevPedroLimaB
+<div align="center">
 
-#### automação · integração de sistemas · ERP + IA
+### > Pedro Henrique Lima Barbosa
+#### fullstack · automação · integração de sistemas
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Fullstack+e+Integra%C3%A7%C3%A3o+de+Sistemas;Automa%C3%A7%C3%A3o+de+Processos+(RPA);Construindo+fluxos+de+trabalho+e+produtos+escal%C3%A1veis)](https://git.io/typing-svg)
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=FullStack+e+Integração+de+Sistemas;Automação+de+Processos+(RPA);Construindo+fluxos+de+trabalho+e+produtos+escaláveis)](https://git.io/typing-svg)
+</div>
 
 Resolvo integrações que travam silenciosamente entre **ERPs legados (Protheus/AdvPL)** e sistemas modernos.
 
@@ -17,17 +17,22 @@ Trabalho na intersecção de **automação de processos**, **agentes de IA** e *
 ### Stack principal
 
 <!-- linguagens e frameworks -->
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript" )](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) &nbsp;
-[![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg "TypeScript")](https://www.typescriptlang.org/) &nbsp;
-[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg "Node.js")](https://nodejs.org/) &nbsp;
-[![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "React")](https://react.dev/) &nbsp;
-[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg "Python")](https://www.python.org/) &nbsp;
-[![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg "PostgreSQL")](https://www.postgresql.org/)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" title="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" title="PostgreSQL" />
+  <img width="12" />
 
 **Automação & Integração:** n8n · Typebot · Bubble · Evolution API  
-**Sistemas corporativos:** ERP Protheus (TOTVS) · AdvPL/TLPP · API REST · SQL Server  
+**Sistemas corporativos:** ERP Protheus (TOTVS) · AdvPL/TLPP · API REST · SQL Server  · Oracle  
 **IA & Agentes:** OpenAI API · Engenharia de Prompt · Agentes conversacionais (WhatsApp)  
-**Infra:** Supabase · Redis · Nginx · VPS · Docker (básico)
+**Infra:** Supabase · Redis · Nginx · VPS · Docker
 
 ---
 
@@ -64,4 +69,4 @@ Problemas que resolvi, decisões que tomei, bugs que caçaram:
 
 ---
 
-> *Vencedor de Hackathon · Estagiário em Engenharia de Software · 6º período — Ciência da Computação, Faculdade Nova Roma, Recife*
+> *Vencedor de Hackathons · Estagiário em Engenharia de Software · 6º período — Ciência da Computação, Faculdade Nova Roma, Recife*
