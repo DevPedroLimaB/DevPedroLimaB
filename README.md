@@ -30,6 +30,7 @@ Trabalho na intersecção de **automação de processos**, **agentes de IA** e *
   <img width="12" />
 </div>
 
+
 **Automação & Integração:** n8n · Typebot · Bubble · Evolution API  
 **Sistemas corporativos:** ERP Protheus (TOTVS) · AdvPL/TLPP · API REST · SQL Server  · Oracle  
 **IA & Agentes:** OpenAI API · Engenharia de Prompt · Agentes conversacionais (WhatsApp)  
